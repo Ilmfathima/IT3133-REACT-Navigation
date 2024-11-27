@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+input {
+  margin: 10px 0;           
+  padding: 10px;            
+  width: 100%;              
+  border-radius: 5px;       
+  border: 1px solid #ccc;   
+  font-size: 14px;          
+}
+
+form {
+  border: 2px solid #C8A2C8;
+  border-radius: 10px;       
+  padding: 20px;            
+  width: 300px;             
+  margin: 50px auto;        
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  background-color: #f9f9f9; 
+}
+
+h1{
+  color:#A020F0;
+}
